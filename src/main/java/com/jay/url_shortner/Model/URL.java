@@ -18,7 +18,8 @@ public class Url {
     private int visitCount;
 
     private LocalDateTime createdAt;
-    private LocalDateTime expiresAt;
+    private LocalDateTime expiresat;
 
     // Getters and Setters
+
 }
